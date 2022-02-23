@@ -1,3 +1,6 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegopinho/)](https://www.linkedin.com/in/diegopinho/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/diegomartinsdepinho/)](https://www.instagram.com/diegomartinsdepinho/)
+
 ### :mortar_board: Formação acadêmica
 
 - Engenharia Eletrônica pela Universidade Tecnológica Federal do Paraná (atualmente)
@@ -7,9 +10,11 @@
 ### :bulb: Tecnologias que já tive contato
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true&cache_seconds=4600" height="160px", width="350px" />
-</p>
+### :bar_chart: Dados GitHub
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmarco-dev&theme=dark" height="195px", width="350px">
+</a>  
   
 ### :dart: Iniciação Científica
 - Programa Ciência e Arte na Férias pela Univerdade Estadual de Campinas (2017)
@@ -27,7 +32,8 @@
 **samuelmarco-dev/samuelmarco-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmarco-dev&theme=dark)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
