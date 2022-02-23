@@ -11,8 +11,8 @@
 
 ### :bar_chart: Dados GitHub
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&show_icons=true" height="195px", width="350px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmarco-dev&theme=dark" height="195px", width="350px">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmarco-dev&theme=dark">
 </a>  
   
 ### :dart: Iniciação Científica
