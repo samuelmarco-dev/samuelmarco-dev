@@ -1,5 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegopinho/)](https://www.linkedin.com/in/diegopinho/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/diegomartinsdepinho/)](https://www.instagram.com/diegomartinsdepinho/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/s.ambrmarco/)](https://www.instagram.com/s.ambrmarco/)
 
 ### :mortar_board: Formação acadêmica
 
@@ -12,7 +11,7 @@
 
 ### :bar_chart: Dados GitHub
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&show_icons=true" height="195px", width="350px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmarco-dev&theme=dark" height="195px", width="350px">
 </a>  
   
