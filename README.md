@@ -19,7 +19,7 @@
 </a>  
   
 ### :dart: Iniciação Científica
-- Programa Ciência e Arte na Férias pela Univerdade Estadual de Campinas (2017)
+- Programa Ciência e Arte nas Férias pela Univerdade Estadual de Campinas (2017)
 - Programa de Iniciação Científica em Projetos do Mestrado pela Univerdade Estadual de Campinas (2017)
 
 ### :memo: Participação em Eventos
