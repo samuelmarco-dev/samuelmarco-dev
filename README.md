@@ -1,21 +1,22 @@
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:samuelmarco.2020@alunos.utfpr.edu.br)](mailto:samuelmarco.2020@alunos.utfpr.edu.br)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/s.ambrmarco/)](https://www.instagram.com/s.ambrmarco/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:samuelmarco.2020@alunos.utfpr.edu.br)](mailto:samuelmarco.2020@alunos.utfpr.edu.br)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-ambrozio-marco/)](https://www.linkedin.com/in/samuel-ambrozio-marco/)
 
-### :mortar_board: Formação acadêmica
+### :mortar_board: Visão Geral
 
 - Engenharia Eletrônica pela Universidade Tecnológica Federal do Paraná (atualmente)
 - Desenvolvimento Web Full-Stack pela Driven Education (atualmente)
 - Ensino Médio Integrado ao Ensino Técnico em Mecânica pela ETEC Trajano Camargo (2018)
 
-### :bulb: Tecnologias que já tive contato
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="60" height="50"/>
+### :bulb: Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="40"/> 
+
 
 ### :books: Tecnologias que estou aprendendo 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="50"/>
 
 ### :bar_chart: Dados GitHub
 <p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&show_icons=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&include_all_commits=true&count_private=true&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmarco-dev&theme=dark">
 </a>  
   
@@ -25,11 +26,12 @@
 
 ### :memo: Participação em Eventos
 - 11° Feira de Projetos e Tecnologia da ETEC Trajano Camargo (2016)
-- 3° Concurso de Redação Vinícius de Moraes (2016)
+- 3° Concurso de Redação Vinícius de Moraes (2016) - 1° lugar
 - 12° Feira de Projetos e Tecnologia da ETEC Trajano Camargo (2017)
 - XV Congresso de Ciência & Arte nas Férias da UNICAMP (2017)
 - XXV Congresso de Iniciação Científica da UNICAMP (2017)
 - 13° Feira de Projetos e Tecnologia da ETEC Trajano Camargo (2018)
+- 2° Hackathon da Driven (Turma 5) com as tecnologias: HTML, CSS, React, Node.js, Express e MongoDB com duração de 7 horas - 1° lugar 
 
 <!--
 **samuelmarco-dev/samuelmarco-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
