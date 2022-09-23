@@ -4,7 +4,7 @@
 ### :mortar_board: Visão Geral
 
 - Engenharia Eletrônica pela Universidade Tecnológica Federal do Paraná (atualmente)
-- Desenvolvimento Web Full-Stack pela Driven Education (atualmente)
+- Desenvolvimento Web Full Stack pela Driven Education (atualmente)
 - Ensino Médio Integrado ao Ensino Técnico em Mecânica pela ETEC Trajano Camargo (2018)
 
 ### :bulb: Tecnologias
