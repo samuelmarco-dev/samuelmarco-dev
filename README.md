@@ -4,7 +4,7 @@
 ### :mortar_board: Visão Geral
 
 - Engenharia Eletrônica pela Universidade Tecnológica Federal do Paraná (atualmente)
-- Desenvolvimento Web Full Stack pela Driven Education (atualmente)
+- Desenvolvimento Web Full Stack pela Driven Education
 - Ensino Médio Integrado ao Ensino Técnico em Mecânica pela ETEC Trajano Camargo (2018)
 
 ### :bulb: Tecnologias
@@ -12,7 +12,7 @@
 
 
 ### :books: Tecnologias que estou aprendendo 
-<img src="https://mui.com/static/logo.png" width="60" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="50"/> <img src="https://mui.com/static/logo.png" width="60" height="50">
 
 ### :bar_chart: Dados GitHub
 <p align="center"> 
@@ -25,13 +25,11 @@
 - Programa de Iniciação Científica em Projetos do Mestrado pela Univerdade Estadual de Campinas (2017)
 
 ### :memo: Participação em Eventos
-- 11° Feira de Projetos e Tecnologia da ETEC Trajano Camargo (2016)
 - 3° Concurso de Redação Vinícius de Moraes (2016) - 1° lugar
-- 12° Feira de Projetos e Tecnologia da ETEC Trajano Camargo (2017)
 - XV Congresso de Ciência & Arte nas Férias da UNICAMP (2017)
 - XXV Congresso de Iniciação Científica da UNICAMP (2017)
 - 13° Feira de Projetos e Tecnologia da ETEC Trajano Camargo (2018)
-- 2° Hackathon da Driven (Turma 5) com as tecnologias: HTML, CSS, React, Node.js, Express e MongoDB com duração de 7 horas - 1° lugar 
+- 2° Hackathon da Driven (Turma 5) com as tecnologias: HTML, CSS, React, Node.js, Express e MongoDB - 1° lugar 
 
 <!--
 **samuelmarco-dev/samuelmarco-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
