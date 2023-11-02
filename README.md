@@ -19,17 +19,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&include_all_commits=true&count_private=true&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmarco-dev&theme=dark">
 </a>  
-  
-### :dart: Iniciação Científica
-- Programa Ciência e Arte nas Férias pela Univerdade Estadual de Campinas (2017)
-- Programa de Iniciação Científica em Projetos do Mestrado pela Univerdade Estadual de Campinas (2017)
-
-### :memo: Participação em Eventos
-- 3° Concurso de Redação Vinícius de Moraes (2016) - 1° lugar
-- XV Congresso de Ciência & Arte nas Férias da UNICAMP (2017)
-- XXV Congresso de Iniciação Científica da UNICAMP (2017)
-- 13° Feira de Projetos e Tecnologia da ETEC Trajano Camargo (2018)
-- 2° Hackathon da Driven (Turma 5) com as tecnologias: HTML, CSS, React, Node.js, Express e MongoDB - 1° lugar 
 
 <!--
 **samuelmarco-dev/samuelmarco-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
