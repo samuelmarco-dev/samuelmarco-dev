@@ -12,7 +12,7 @@
 
 
 ### :books: Tecnologias que estou aprendendo 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="50"/> <img src="https://mui.com/static/logo.png" width="60" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/> <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" width="40" height="40"/>
 
 ### :bar_chart: Dados GitHub
 <p align="center"> 
