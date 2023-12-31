@@ -4,7 +4,7 @@
 ### :mortar_board: Visão Geral
 
 - Engenharia Eletrônica pela Universidade Tecnológica Federal do Paraná (atualmente)
-- Desenvolvimento Web Full Stack pela Driven Education
+- Desenvolvimento Web Full Stack pela Driven Education (2022)
 - Ensino Médio Integrado ao Ensino Técnico em Mecânica pela ETEC Trajano Camargo (2018)
 
 ### :bulb: Tecnologias
@@ -12,7 +12,7 @@
 
 
 ### :books: Tecnologias que estou aprendendo 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/> <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/> <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 
 ### :bar_chart: Dados GitHub
 <p align="center"> 
