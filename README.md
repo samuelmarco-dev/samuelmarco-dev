@@ -1,22 +1,22 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:samuelmarco.2020@alunos.utfpr.edu.br)](mailto:samuelmarco.2020@alunos.utfpr.edu.br)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-ambrozio-marco/)](https://www.linkedin.com/in/samuel-ambrozio-marco/)
 
-### :mortar_board: Visão Geral
+### :mortar_board: Overview 
 
-- Mestrado em Engenharia Eletrotécnica e de Computadores pelo Instituto Politécnico de Bragança - Portugal (atualmente) 
-- Engenharia Eletrônica pela Universidade Tecnológica Federal do Paraná (atualmente)
-- Desenvolvimento Web Full Stack pela Driven Education (2022)
-- Ensino Médio Integrado ao Ensino Técnico em Mecânica pela ETEC Trajano Camargo (2018)
+- Master's degree in Electrical and Computer Engineering from the Polytechnic Institute of Bragança - Portugal (currently)
+- Bachelor’s Degree in Electronic Engineering from the Federal Technological University of Paraná
+- Full Stack Web Development from Driven Education
+- Integrated High School and Technical Education in Mechanics from ETEC Trajano Camargo (2018)
 
-### :bulb: Tecnologias
+### :bulb: Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" alt="arduino" width="40" height="40"/>
 
 
 
-### :books: Tecnologias que estou aprendendo 
+### :books: Technologies that I'm learning 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/Benio101/cpp-logo/master/cpp_logo.png" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="esp32" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/st-microelectronics-1.svg" alt="stm32" width="40" height="40"/> 
 
-### :bar_chart: Dados GitHub
+### :bar_chart: GitHub Data
 <p align="center"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelmarco-dev&theme=dark&include_all_commits=true&count_private=true&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmarco-dev&theme=dark">
